@@ -1,0 +1,1 @@
+This app does not collect or share any personal user data. The OpenAI API key is stored securely on your device using encrypted settings.
